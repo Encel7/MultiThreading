@@ -1,0 +1,2 @@
+FerrySquare FerryWeight LorrySquare LorryWeight CarSquare CarWeight numberOfCars numberOfLorries
+6.0 7.0 2.0 2.5 1.0 1.0 10.0 10.0
